@@ -9,12 +9,15 @@ result = doc.find_all(class_="card-title")
 
 sez=[]
 for stvar in doc.find_all(class_="card-title"):
-    sez.append(stvar.string.replace(" ","").replace("\n", ""))
+    sez.append(stvar.string.lstrip().rstrip().replace("\n", ""))
+
 
 sez.pop(0)
 sez.pop(-1)
 sez.pop(-1)
 sez.pop(-1)
+
+
 
 nov_sez = []
 nov = ""
@@ -27,7 +30,12 @@ for podjetje in nov_sez:
     pod3 = "".join((znak for znak in podjetje if znak != "."))
     nov_nov_sez.append(pod3)
 
-print(nov_nov_sez)
+sez4 = []
+for firma in nov_nov_sez:
+    fir = firma.strip()
+    sez4.append(fir)
+
+print(sez4)
 
 
 
