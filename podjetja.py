@@ -11,8 +11,23 @@ sez=[]
 for stvar in doc.find_all(class_="card-title"):
     sez.append(stvar.string.replace(" ","").replace("\n", ""))
 
-print(sez[1:-3])
+sez.pop(0)
+sez.pop(-1)
+sez.pop(-1)
+sez.pop(-1)
 
+nov_sez = []
+nov = ""
+for podjetje in sez:
+    pod2 = "".join((crka for crka in podjetje if not crka.isdigit()))
+    nov_sez.append(pod2)
+
+nov_nov_sez = []
+for podjetje in nov_sez:
+    pod3 = "".join((znak for znak in podjetje if znak != "."))
+    nov_nov_sez.append(pod3)
+
+print(nov_nov_sez)
 
 
 
