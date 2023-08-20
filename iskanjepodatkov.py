@@ -50,7 +50,17 @@ for stvar in ostalo:
 del sez7[::7]
 del sez7[::6]
 
-print(sez7)
+
+vrednost = sez7[0::5]
+
+kratica = sez7[1::5]
+
+država = sez7[2::5]
+
+sektor = sez7[3::5]
+
+industrija = sez7[4::5]
+print(industrija)
 
 
 
