@@ -65,9 +65,23 @@ vrednosti1 = []
 for vrednost in vrednosti:
     vrednosti1.append(vrednost.lstrip().rstrip().replace("\n", ""))
 
-print(vrednosti1)
+kratice1 = []
+for kratica in kratice:
+    kratice1.append(kratica.lstrip().rstrip().replace("\n", ""))
 
+države1 = []
+for država in države:
+    države1.append(država.lstrip().rstrip().replace("\n", ""))
 
+sektorji1 = []
+for sektor in sektorji:
+    sektorji1.append(sektor.lstrip().rstrip().replace("\n", ""))
+
+industrije1 = []
+for industrija in industrije:
+    industrije1.append(industrija.lstrip().rstrip().replace("\n", ""))
+
+print(industrije1)
 
 
 
