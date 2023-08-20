@@ -81,8 +81,31 @@ industrije1 = []
 for industrija in industrije:
     industrije1.append(industrija.lstrip().rstrip().replace("\n", ""))
 
-print(industrije1)
+Vrednosti, Kratice, Države, Sektorji, Industrije = vrednosti1, kratice1, države1, sektorji1, industrije1   
 
+for i in range(len(Sektorji)):
+    if Sektorji[i] == "Technology":
+        Sektorji[i] = "Tehnologija"
+
+    if Sektorji[i] == "Energy":
+        Sektorji[i] = "Energetika"
+
+    if Sektorji[i] == "Communication Services":
+        Sektorji[i] = "Komunikacijske storitve"
+    
+    if Sektorji[i] == "Consumer Discretionary":
+        Sektorji[i] = "Potrošniške storitve"
+    
+    if Sektorji[i] == "Financials":
+        Sektorji[i] = "Finance"
+    
+    if Sektorji[i] == "Healthcare":
+        Sektorji[i] = "Zdravstvo"
+    
+    if Sektorji[i] == "Consumer Staples":
+        Sektorji[i] = "Osnovne potrebščine"
+    
+print(Sektorji)
 
 
 
