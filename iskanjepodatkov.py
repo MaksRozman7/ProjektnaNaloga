@@ -104,8 +104,87 @@ for i in range(len(Sektorji)):
     
     if Sektorji[i] == "Consumer Staples":
         Sektorji[i] = "Osnovne potrebščine"
+
+
+for i in range(len(Industrije)):
+    if Industrije[i] == "Consumer Electronics":
+        Industrije[i] = "Potrošniška elektronika"
+
+    if Industrije[i] == "Software—Infrastructure":
+       Industrije[i] = "Programska oprema"
+
+    if Industrije[i] == "Oil & Gas Integrated":
+        Industrije[i] = "Nafta in plin"
     
-print(Sektorji)
+    if Industrije[i] == "Internet Content & Information":
+        Industrije[i] = "Internetne vsebine in informacije"
+    
+    if Industrije[i] == "Internet Retail":
+        Industrije[i] = "Internetna maloprodaja"
+    
+    if Industrije[i] == "Semiconductors":
+        Industrije[i] = "Polprevodniki"
+    
+    if Industrije[i] == "Auto Manufacturers":
+        Industrije[i] = "Avtomobilska industrija"
+    
+    if Industrije[i] == "Financial Conglomerates":
+        Industrije[i] = "Finančni konglomerat"
+    
+    if Industrije[i] == "Credit Services":
+        Industrije[i] = "Kreditne storitve"
+    
+    if Industrije[i] == "Household & Personal Products":
+        Industrije[i] = "Gospodinjski in osebni izdelki"
+    
+    if Industrije[i] == "Biotechnology":
+        Industrije[i] = "Biotehnologija"
+    
+    if Industrije[i] == "Luxury Goods":
+        Industrije[i] = "Luksuzne dobrine"
+
+    if Industrije[i] == "Banks—Diversified":
+        Industrije[i] = "Banke"
+    
+    if Industrije[i] == "Healthcare Plans":
+        Industrije[i] = "Zdravstveno zavarovanje"
+    
+    if Industrije[i] == "Drug Manufacturers—General":
+        Industrije[i] = "Zdravila"
+    
+    if Industrije[i] == "Discount Stores":
+        Industrije[i] = "Trgovine s popusti"
+    
+    if Industrije[i] == "Home Improvement Retail":
+        Industrije[i] = "Oprema za dom"
+    
+    if Industrije[i] == "Beverages—Non-Alcoholic":
+        Industrije[i] = "Brezalkoholne pijače"
+    
+    if Industrije[i] == "Software—Application":
+        Industrije[i] = "Programska oprema"
+    
+    if Industrije[i] == "Restaurants":
+        Industrije[i] = "Restavracije"
+    
+    if Industrije[i] == "Communication Equipment":
+        Industrije[i] = "Komunikaciska oprema"
+    
+    if Industrije[i] == "Beverages—Wineries & Distilleries":
+        Industrije[i] = "Vinarne in destilarne"
+    
+    if Industrije[i] == "Semiconductor Equipment & Materials":
+        Industrije[i] = "Polprevodniška oprema in materiali"
+    
+   
+    
+
+
+
+
+
+    
+print(Industrije)
 
 
 
