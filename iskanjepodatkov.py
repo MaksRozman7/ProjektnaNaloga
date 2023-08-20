@@ -177,8 +177,42 @@ for i in range(len(Industrije)):
         Industrije[i] = "Polprevodniška oprema in materiali"
     
  
+for i in range(len(Države)):
+    if Države[i] == "United States":
+        Države[i] = "ZDA"
+
+    if Države[i] == "Saudi Arabia":
+        Države[i] = "Savdska Arabija"
+
+    if Države[i] == "Taiwan":
+        Države[i] = "Tajvan"
     
-print(Industrije)
+    if Države[i] == "France":
+        Države[i] = "Francija"
+    
+    if Države[i] == "China":
+        Države[i] = "Kitajska"
+    
+    if Države[i] == "South Korea":
+        Države[i] = "Južna Koreja"
+
+    if Države[i] == "Denmark":
+        Države[i] = "Danska"
+    
+    if Države[i] == "Netherlands":
+        Države[i] = "Nizozemska"
+    
+    if Države[i] == "Switzerland":
+        Države[i] = "Švica"
+    
+    if Države[i] == "United Kingdom":
+        Države[i] = "Združeno kraljestvo"   
+
+
+
+
+
+print(Države)
 
 
 
