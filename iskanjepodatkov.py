@@ -34,7 +34,7 @@ for podjetje in nov_sez:
 
 nov_nov_sez.pop(0)
 
-imena_podjetij = nov_nov_sez
+Podjetja = nov_nov_sez
 
 ostalo = doc.find_all("td")
 
@@ -212,7 +212,12 @@ for i in range(len(Države)):
 
 
 
+print(Podjetja)
+print(Vrednosti)
+print(Kratice)
 print(Države)
+print(Sektorji)
+print(Industrije)
 
 
 
