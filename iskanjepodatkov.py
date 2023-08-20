@@ -36,14 +36,14 @@ nov_nov_sez.pop(0)
 
 imena_podjetij = nov_nov_sez
 
-ostalo = doc.find_all("td",  )
+ostalo = doc.find_all("td")
 
 
 #print(ostalo)
 
 sez7 = []
 for stvar in ostalo:
-    sez7.append(stvar)
+    sez7.append(stvar.text)
 
 
 
@@ -60,6 +60,12 @@ države = sez7[2::5]
 sektorji = sez7[3::5]
 
 industrije = sez7[4::5]
+
+vrednosti1 = []
+for vrednost in vrednosti:
+    vrednosti1.append(vrednost.lstrip().rstrip().replace("\n", ""))
+
+print(vrednosti1)
 
 
 
