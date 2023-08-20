@@ -176,13 +176,7 @@ for i in range(len(Industrije)):
     if Industrije[i] == "Semiconductor Equipment & Materials":
         Industrije[i] = "Polprevodniška oprema in materiali"
     
-   
-    
-
-
-
-
-
+ 
     
 print(Industrije)
 
