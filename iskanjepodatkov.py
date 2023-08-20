@@ -5,11 +5,10 @@ url = "https://disfold.com/world/companies/?page=1"
 rezultat = requests.get(url).text
 doc = BeautifulSoup(rezultat, "html.parser")
 
-tbody = doc.tbody
-trs = tbody.contetns
+
 
 ime = doc.find_all("h2")
-#print(ime)
+
 
 sez = []
 for stvar in ime:
@@ -36,4 +35,22 @@ for podjetje in nov_sez:
 nov_nov_sez.pop(0)
 
 imena_podjetij = nov_nov_sez
-print(imena_podjetij)
+
+ostalo = doc.find_all("td",  )
+
+
+#print(ostalo)
+
+sez7 = []
+for stvar in ostalo:
+    sez7.append(stvar)
+
+
+
+del sez7[::7]
+del sez7[::6]
+
+print(sez7)
+
+
+
