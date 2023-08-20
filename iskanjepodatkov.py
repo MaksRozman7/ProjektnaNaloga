@@ -51,16 +51,18 @@ del sez7[::7]
 del sez7[::6]
 
 
-vrednost = sez7[0::5]
+vrednosti = sez7[0::5]
 
-kratica = sez7[1::5]
+kratice = sez7[1::5]
 
-država = sez7[2::5]
+države = sez7[2::5]
 
-sektor = sez7[3::5]
+sektorji = sez7[3::5]
 
-industrija = sez7[4::5]
-print(industrija)
+industrije = sez7[4::5]
+
+
+
 
 
 
