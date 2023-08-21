@@ -212,12 +212,8 @@ for i in range(len(Države)):
 
 
 
-print(Podjetja)
-print(Vrednosti)
-print(Kratice)
-print(Države)
-print(Sektorji)
-print(Industrije)
+slovar = {}
+for i in range(50):
+   Vse_skupaj = print({'ime': Podjetja[i], 'država': Države[i], 'kratica': Kratice[i], 'vrednost': Vrednosti[i], 'sektor': Sektorji[i], 'industrija': Industrije[i]})
 
-
-
+print(Vse_skupaj)
