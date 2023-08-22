@@ -265,7 +265,7 @@ for stran in range(1, 11):
             Države[i] = "Norveška"
         
         if Države[i] == "Austria":
-            Države[i] = "Avstija"
+            Države[i] = "Avstrija"
         
         if Države[i] == "Indonesia":
             Države[i] = "Indonezija"
@@ -293,6 +293,12 @@ for stran in range(1, 11):
         
         if Države[i] == "Belgium":
             Države[i] = "Belgija"
+        
+        if Države[i] == "Thailand":
+            Države[i] = "Tajska"
+        
+        if Države[i] == "South Africa":
+            Države[i] = "Južna Afrika"
 
           
 
