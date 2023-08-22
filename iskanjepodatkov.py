@@ -8,7 +8,7 @@ doc = BeautifulSoup(rezultat, "html.parser")
 
 seznam = []
 
-for stran in range(1, 10):
+for stran in range(1, 11):
     url = f"https://disfold.com/world/companies/?page={stran}"
     stran = requests.get(url).text
     doc = BeautifulSoup(stran, "html.parser")
@@ -65,8 +65,14 @@ for stran in range(1, 10):
     industrije = sez7[4::5]
 
     vrednosti1 = []
+    
     for vrednost in vrednosti:
-        vrednosti1.append(vrednost.lstrip().rstrip().replace("\n", ""))
+        if len(vrednost) <= 105:
+            vrednosti1.append(vrednost.lstrip().rstrip().replace("\n", ""))
+        else:
+            vred = vrednost[:150]
+            vrednosti1.append(vred.lstrip().rstrip().replace("\n", ""))
+
 
     kratice1 = []
     for kratica in kratice:
@@ -107,6 +113,20 @@ for stran in range(1, 10):
         
         if Sektorji[i] == "Consumer Staples":
             Sektorji[i] = "Osnovne potrebščine"
+        
+        if Sektorji[i] == "Basic Materials":
+            Sektorji[i] = "Osnovni materiali"
+
+        if Sektorji[i] == "Industrials":
+            Sektorji[i] = "Industrija"
+
+        if Sektorji[i] == "Utilities":
+            Sektorji[i] = "Javna služba"
+        
+        if Sektorji[i] == "Real Estate":
+            Sektorji[i] = "Nepremičnine"
+        
+        
 
 
     for i in range(len(Industrije)):
@@ -290,7 +310,7 @@ for stran in range(1, 10):
         for firma in seznam:
             writer.writerow([firma["ime"], firma["država"], firma["kratica"], firma["vrednost"], firma["sektor"], firma["industrija"]])
     
-print(seznam)      
+    #print(Vrednosti)      
    
     
     
