@@ -209,7 +209,72 @@ for stran in range(1, 10):
             Države[i] = "Švica"
         
         if Države[i] == "United Kingdom":
-            Države[i] = "Združeno kraljestvo"   
+            Države[i] = "Združeno kraljestvo" 
+        
+        if Države[i] == "Ireland":
+            Države[i] = "Irska"
+        
+        if Države[i] == "Germany":
+            Države[i] = "Nemčija"
+        
+        if Države[i] == "Australia":
+            Države[i] = "Avstralija"
+
+        if Države[i] == "Canada":
+            Države[i] = "Kanada"
+        
+        if Države[i] == "India":
+            Države[i] = "Indija"
+        
+        if Države[i] == "Spain":
+            Države[i] = "Španija"
+        
+        if Države[i] == "Belgium":
+            Države[i] = "Belgija"
+        
+        if Države[i] == "Japan":
+            Države[i] = "Japonska"
+        
+        if Države[i] == "Russia":
+            Države[i] = "Rusija"
+        
+        if Države[i] == "Brazil":
+            Države[i] = "Brazilija"
+
+        if Države[i] == "Norway":
+            Države[i] = "Norveška"
+        
+        if Države[i] == "Austria":
+            Države[i] = "Avstija"
+        
+        if Države[i] == "Indonesia":
+            Države[i] = "Indonezija"
+        
+        if Države[i] == "Mexico":
+            Države[i] = "Mehika"
+        
+        if Države[i] == "Sweden":
+            Države[i] = "Švedska"
+        
+        if Države[i] == "Singapore":
+            Države[i] = "Singapur"
+        
+        if Države[i] == "Italy":
+            Države[i] = "Italija"
+
+        if Države[i] == "Canada":
+            Države[i] = "Kanada"
+        
+        if Države[i] == "India":
+            Države[i] = "Indija"
+        
+        if Države[i] == "Spain":
+            Države[i] = "Španija"
+        
+        if Države[i] == "Belgium":
+            Države[i] = "Belgija"
+
+          
 
 
 
@@ -225,7 +290,7 @@ for stran in range(1, 10):
         for firma in seznam:
             writer.writerow([firma["ime"], firma["država"], firma["kratica"], firma["vrednost"], firma["sektor"], firma["industrija"]])
     
-        
+print(seznam)      
    
     
     
