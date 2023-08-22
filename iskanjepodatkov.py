@@ -1,14 +1,18 @@
 from bs4 import BeautifulSoup
 import requests
+import csv
 
 url = "https://disfold.com/world/companies/?page=1"
 rezultat = requests.get(url).text
 doc = BeautifulSoup(rezultat, "html.parser")
 
-for stran in range(1, 11):
+seznam = []
+
+for stran in range(1, 10):
     url = f"https://disfold.com/world/companies/?page={stran}"
     stran = requests.get(url).text
     doc = BeautifulSoup(stran, "html.parser")
+
 
     ime = doc.find_all("h2")
 
@@ -211,11 +215,17 @@ for stran in range(1, 11):
 
 
 
-    seznam = []
+    
     for i in range(50):
         seznam.append({'ime': Podjetja[i], 'država': Države[i], 'kratica': Kratice[i], 'vrednost': Vrednosti[i], 'sektor': Sektorji[i], 'industrija': Industrije[i]})
 
-    print(seznam)
-
+    with open("podatkiPodjetja.csv", "w", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["ime", "država", "kratica", "vrednost", "sektor", "industrija"])
+        for firma in seznam:
+            writer.writerow([firma["ime"], firma["država"], firma["kratica"], firma["vrednost"], firma["sektor"], firma["industrija"]])
     
-
+        
+   
+    
+    
