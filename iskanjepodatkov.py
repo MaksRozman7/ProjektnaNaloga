@@ -198,7 +198,102 @@ for stran in range(1, 11):
         
         if Industrije[i] == "Semiconductor Equipment & Materials":
             Industrije[i] = "Polprevodniška oprema in materiali"
+        
+        if Industrije[i] == "Diagnostics & Research":
+            Industrije[i] = "Diagnostika in raziskave"
+        
+        if Industrije[i] == "Information Technology Services":
+            Industrije[i] = "Storitve informacijske tehnologije"
+        
+        if Industrije[i] == "Entertainment":
+            Industrije[i] = "Zabava"
+        
+        if Industrije[i] == "Medical Devices":
+            Industrije[i] = "Zdravstvene naprave"
+        
+        if Industrije[i] == "Telecom Services":
+            Industrije[i] = "Telekomunikacijske storitve"
+        
+        if Industrije[i] == "Specialty Chemicals":
+            Industrije[i] = "Specializirane kemikalije"
+        
+        if Industrije[i] == "Diagnostics & Research":
+            Industrije[i] = "Diagnostika in raziskave"
+        
+        if Industrije[i] == "Footwear & Accessories":
+            Industrije[i] = "Obutev in dodatki"
+        
+        if Industrije[i] == "Integrated Freight & Logistics":
+            Industrije[i] = "Tovorni promet in logistika"
+        
+        if Industrije[i] == "Tobacco":
+            Industrije[i] = "Tobak"
+        
+        if Industrije[i] == "Druge industrijske kovine in rudarstvo":
+            Industrije[i] = "Industrijske kovine in rudarstvo"
+        
+        if Industrije[i] == "Utilities—Regulated Electric":
+            Industrije[i] = "Komunala - Elektrika"
+        
+        if Industrije[i] == "Capital Markets":
+            Industrije[i] = "Kapitalski trgi"
+        
+        if Industrije[i] == "Aerospace & Defense":
+            Industrije[i] = "Letalstvo in obramba"
+        
+        if Industrije[i] == "Electrical Equipment & Parts":
+            Industrije[i] = "Električna oprema in deli"
+        
+        if Industrije[i] == "Oil & Gas E&P":
+            Industrije[i] = "Nafta in plin E&P"
+        
+        if Industrije[i] == "Financial Data & Stock Exchanges":
+            Industrije[i] = "Finančni podatki in borze"
+        
+        if Industrije[i] == "Specialty Industrial Machinery":
+            Industrije[i] = "Posebni industrijski stroji"
+        
+        if Industrije[i] == "Farm & Heavy Construction Machinery":
+            Industrije[i] = "Kmetijski in težki gradbeni stroji"
+        
+        if Industrije[i] == "Banks—Regional":
+            Industrije[i] = "Banke-regionalno"
+        
+        if Industrije[i] == "Railroads":
+            Industrije[i] = "Železnice"
+        
+        if Industrije[i] == "Diagnostics & Research":
+            Industrije[i] = "Diagnostika in raziskave"
+        
+        if Industrije[i] == "Asset Management":
+            Industrije[i] = "Upravljanje sredstev"
+        
+        if Industrije[i] == "Apparel Retail":
+            Industrije[i] = "Trgovina z oblačili"
+        
+        if Industrije[i] == "Insurance—Life":
+            Industrije[i] = "Zdravstveno zavarovanje"
+        
+        if Industrije[i] == "Beverages—Brewers":
+            Industrije[i] = "Pijače-pivovarji"
+        
+        if Industrije[i] == "REIT—Industrial":
+            Industrije[i] = "Nepremičnine-industrija"
+        
+        if Industrije[i] == "Scientific & Technical Instruments":
+            Industrije[i] = "Znanstveni in tehnični pripomočki"
+        
+        if Industrije[i] == "Confectioners":
+            Industrije[i] = "Slaščičarstvo"
     
+
+
+
+
+
+
+
+
  
     for i in range(len(Države)):
         if Države[i] == "United States":
@@ -300,12 +395,7 @@ for stran in range(1, 11):
         if Države[i] == "South Africa":
             Države[i] = "Južna Afrika"
 
-          
-
-
-
-
-
+        
     
     for i in range(50):
         seznam.append({'ime': Podjetja[i], 'država': Države[i], 'kratica': Kratice[i], 'vrednost': Vrednosti[i], 'sektor': Sektorji[i], 'industrija': Industrije[i]})
