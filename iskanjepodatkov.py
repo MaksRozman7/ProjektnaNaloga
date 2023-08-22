@@ -211,11 +211,11 @@ for stran in range(1, 11):
 
 
 
-    slovar = {}
+    seznam = []
     for i in range(50):
-     Vse_skupaj = print({'ime': Podjetja[i], 'država': Države[i], 'kratica': Kratice[i], 'vrednost': Vrednosti[i], 'sektor': Sektorji[i], 'industrija': Industrije[i]})
+        seznam.append({'ime': Podjetja[i], 'država': Države[i], 'kratica': Kratice[i], 'vrednost': Vrednosti[i], 'sektor': Sektorji[i], 'industrija': Industrije[i]})
 
-    print(Vse_skupaj)
+    print(seznam)
 
     
 
