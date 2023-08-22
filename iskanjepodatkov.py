@@ -229,11 +229,11 @@ for stran in range(1, 11):
         if Industrije[i] == "Tobacco":
             Industrije[i] = "Tobak"
         
-        if Industrije[i] == "Druge industrijske kovine in rudarstvo":
+        if Industrije[i] == "Other Industrial Metals & Mining":
             Industrije[i] = "Industrijske kovine in rudarstvo"
         
         if Industrije[i] == "Utilities—Regulated Electric":
-            Industrije[i] = "Komunala - Elektrika"
+            Industrije[i] = "Komunala-elektrika"
         
         if Industrije[i] == "Capital Markets":
             Industrije[i] = "Kapitalski trgi"
@@ -285,6 +285,57 @@ for stran in range(1, 11):
         
         if Industrije[i] == "Confectioners":
             Industrije[i] = "Slaščičarstvo"
+        
+        if Industrije[i] == "Travel Services":
+            Industrije[i] = "Potovalne storitve"
+        
+        if Industrije[i] == "Staffing & Employment Services":
+            Industrije[i] = "Zaposlitvene storitve"
+        
+        if Industrije[i] == "Insurance Brokers":
+            Industrije[i] = "Zavarovalni posredniki"
+        
+        if Industrije[i] == "Chemicals":
+            Industrije[i] = "Kemikalije"
+        
+        if Industrije[i] == "Insurance—Diversified":
+            Industrije[i] = "Zavarovanje-diverzificirano"
+        
+        if Industrije[i] == "REIT—Specialty":
+            Industrije[i] = "Nepremičnine-posebnosti"
+        
+        if Industrije[i] == "Medical Instruments & Supplies":
+            Industrije[i] = "Medicinski instrumenti in pripomočki"
+        
+        if Industrije[i] == "Oil & Gas Equipment & Services":
+            Industrije[i] = "Oprema in storitve za nafto in plin"
+        
+        if Industrije[i] == "Medical Care Facilities":
+            Industrije[i] = "Zdravstvene ustanove"
+        
+        if Industrije[i] == "Insurance—Property & Casualty":
+            Industrije[i] = "Zavarovanje premoženja in nezgod"
+        
+        if Industrije[i] == "Drug Manufacturers—Specialty & Generic":
+            Industrije[i] = "Proizvajalci zdravil "
+        
+        if Industrije[i] == "Utilities—Diversified":
+            Industrije[i] = "Komunala-razno"
+        
+        if Industrije[i] == "Insurance—Life":
+            Industrije[i] = "Zdravstveno zavarovanje"
+        
+        if Industrije[i] == "Thermal Coal":
+            Industrije[i] = "Premog"
+        
+        if Industrije[i] == "Oil & Gas Midstream":
+            Industrije[i] = "Nafta in plin-vmesni proces"
+        
+        if Industrije[i] == "Utilities—Independent Power Producers":
+            Industrije[i] = "Komunala-električna energija"
+        
+        if Industrije[i] == "Electronic Gaming & Multimedia":
+            Industrije[i] = "Elektronske igre in multimedija"
     
 
 

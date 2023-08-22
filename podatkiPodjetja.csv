@@ -70,8 +70,8 @@ Dior,Francija,CDI,$159.17 B,Potrošniške storitve,Luksuzne dobrine
 UPS,ZDA,UPS,$156.40 B,Industrija,Tovorni promet in logistika
 HSBC,Združeno kraljestvo,HSBA,$156.02 B,Finance,Banke
 Philip Morris,ZDA,PM,$154.35 B,Osnovne potrebščine,Tobak
-BHP,Avstralija,BHP,$148.04 B,Osnovni materiali,Other Industrial Metals & Mining
-NextEra Energy,ZDA,NEE,$146.07 B,Javna služba,Komunala - Elektrika
+BHP,Avstralija,BHP,$148.04 B,Osnovni materiali,Industrijske kovine in rudarstvo
+NextEra Energy,ZDA,NEE,$146.07 B,Javna služba,Komunala-elektrika
 Morgan Stanley,ZDA,MS,$144.55 B,Finance,Kapitalski trgi
 China Construction Bank,Kitajska,601939,$143.77 B,Finance,Banke
 Bank of China,Kitajska,601988,$143.74 B,Finance,Banke
@@ -108,7 +108,7 @@ Medtronic,Irska,MDT,$117.30 B,Zdravstvo,Zdravstvene naprave
 Amgen,ZDA,AMGN,$116.83 B,Zdravstvo,Zdravila
 Ping An Insurance,Kitajska,601318,$116.70 B,Finance,Zdravstveno zavarovanje
 Starbucks,ZDA,SBUX,$116.52 B,Potrošniške storitve,Restavracije
-"Intuitive Surgical, Inc",ZDA,ISRG,$116.08 B,Zdravstvo,Medical Instruments & Supplies
+"Intuitive Surgical, Inc",ZDA,ISRG,$116.08 B,Zdravstvo,Medicinski instrumenti in pripomočki
 Applied Materials,ZDA,AMAT,$115.52 B,Tehnologija,Polprevodniška oprema in materiali
 "ServiceNow, Inc",ZDA,NOW,$114.39 B,Tehnologija,Programska oprema
 AIA Group,Hong Kong,1299,$114.13 B,Finance,Zdravstveno zavarovanje
@@ -123,13 +123,13 @@ China Life,Kitajska,601628,$109.53 B,Finance,Zdravstveno zavarovanje
 Sony,Japonska,6758,$108.36 B,Tehnologija,Potrošniška elektronika
 AT&T,ZDA,T,$108.16 B,Komunikacijske storitve,Telekomunikacijske storitve
 "The Goldman Sachs Group, Inc",ZDA,GS,$108.16 B,Finance,Kapitalski trgi
-Rio Tinto,Združeno kraljestvo,RIO,$108.13 B,Osnovni materiali,Other Industrial Metals & Mining
+Rio Tinto,Združeno kraljestvo,RIO,$108.13 B,Osnovni materiali,Industrijske kovine in rudarstvo
 BlackRock,ZDA,BLK,$106.36 B,Finance,Upravljanje sredstev
 Schwab,ZDA,SCHW,$106.34 B,Finance,Kapitalski trgi
 Deutsche Telekom AG,Nemčija,DTE,$106.00 B,Komunikacijske storitve,Telekomunikacijske storitve
 BYD Company,Kitajska,002594,$103.67 B,Potrošniške storitve,Avtomobilska industrija
 BP plc,Združeno kraljestvo,BP.,$103.15 B,Energetika,Nafta in plin
-Booking Holdings Inc,ZDA,BKNG,$102.80 B,Potrošniške storitve,Travel Services
+Booking Holdings Inc,ZDA,BKNG,$102.80 B,Potrošniške storitve,Potovalne storitve
 Open Joint Stock Company OMZ,Rusija,OMZZP,$101.93 B,Industrija,Posebni industrijski stroji
 Schneider Electric SE,Francija,SU,$99.62 B,Industrija,Posebni industrijski stroji
 "Analog Devices, Inc",ZDA,ADI,$99.42 B,Tehnologija,Polprevodniki
@@ -142,12 +142,12 @@ Nippon Telegraph & Telephone Corp,Japonska,9432,$96.28 B,Komunikacijske storitve
 "The TJX Companies, Inc",ZDA,TJX,$95.89 B,Potrošniške storitve,Trgovina z oblačili
 Pinduoduo,Kitajska,PDD,$95.59 B,Potrošniške storitve,Internetna maloprodaja
 "Gilead Sciences, Inc",ZDA,GILD,$95.27 B,Zdravstvo,Zdravila
-"Automatic Data Processing, Inc",ZDA,ADP,$93.52 B,Industrija,Staffing & Employment Services
-"Marsh & McLennan Companies, Inc",ZDA,MMC,$92.44 B,Finance,Insurance Brokers
-Air Liquide SA,Francija,AI,$91.66 B,Osnovni materiali,Chemicals
+"Automatic Data Processing, Inc",ZDA,ADP,$93.52 B,Industrija,Zaposlitvene storitve
+"Marsh & McLennan Companies, Inc",ZDA,MMC,$92.44 B,Finance,Zavarovalni posredniki
+Air Liquide SA,Francija,AI,$91.66 B,Osnovni materiali,Kemikalije
 CVS Health,ZDA,CVS,$91.37 B,Zdravstvo,Zdravstveno zavarovanje
-Allianz SE,Nemčija,ALV,$91.36 B,Finance,Insurance—Diversified
-American Tower,ZDA,AMT,$90.69 B,Nepremičnine,REIT—Specialty
+Allianz SE,Nemčija,ALV,$91.36 B,Finance,Zavarovanje-diverzificirano
+American Tower,ZDA,AMT,$90.69 B,Nepremičnine,Nepremičnine-posebnosti
 Citigroup Inc,ZDA,C,$90.58 B,Finance,Banke
 Vertex Pharmaceuticals Incorporated,ZDA,VRTX,$88.79 B,Zdravstvo,Biotehnologija
 Petróleo Brasileiro SA - Petrobras,Brazilija,PBR,$88.47 B,Energetika,Nafta in plin
@@ -159,77 +159,77 @@ Lam Research Corporation,ZDA,LRCX,$85.60 B,Tehnologija,Polprevodniška oprema in
 CSL Limited,Avstralija,CSL,$85.00 B,Zdravstvo,Biotehnologija
 Mercedes-Benz Group AG,Nemčija,MBG,$84.94 B,Potrošniške storitve,Avtomobilska industrija
 Marinomed Biotech AG,Avstrija,MBG,$84.73 B,Zdravstvo,Biotehnologija
-EssilorLuxottica SA,Francija,EL,$84.47 B,Zdravstvo,Medical Instruments & Supplies
-Schlumberger Limited,ZDA,SLB,$84.30 B,Energetika,Oil & Gas Equipment & Services
+EssilorLuxottica SA,Francija,EL,$84.47 B,Zdravstvo,Medicinski instrumenti in pripomočki
+Schlumberger Limited,ZDA,SLB,$84.30 B,Energetika,Oprema in storitve za nafto in plin
 Cigna Corporation,ZDA,CI,$83.36 B,Zdravstvo,Zdravstveno zavarovanje
 "Altria Group, Inc",ZDA,MO,$81.36 B,Osnovne potrebščine,Tobak
-"HCA Healthcare, Inc",ZDA,HCA,$81.07 B,Zdravstvo,Medical Care Facilities
+"HCA Healthcare, Inc",ZDA,HCA,$81.07 B,Zdravstvo,Zdravstvene ustanove
 ICICI Bank Limited,Indija,IBN,$80.63 B,Finance,Banke-regionalno
 Eaton Corporation plc,Irska,ETN,$80.52 B,Industrija,Posebni industrijski stroji
 PayPal,ZDA,PYPL,$80.04 B,Finance,Kreditne storitve
 Shopify,Kanada,SHOP,$79.57 B,Tehnologija,Programska oprema
-Chubb Limited,Švica,CB,$79.57 B,Finance,Insurance—Property & Casualty
+Chubb Limited,Švica,CB,$79.57 B,Finance,Zavarovanje premoženja in nezgod
 "Regeneron Pharmaceuticals, Inc",ZDA,REGN,$78.88 B,Zdravstvo,Biotehnologija
 "Fiserv, Inc",ZDA,FI,$78.86 B,Tehnologija,Storitve informacijske tehnologije
-Zoetis Inc,ZDA,ZTS,$78.54 B,Zdravstvo,Drug Manufacturers—Specialty & Generic
-The Progressive Corporation,ZDA,PGR,$78.02 B,Finance,Insurance—Property & Casualty
+Zoetis Inc,ZDA,ZTS,$78.54 B,Zdravstvo,Proizvajalci zdravil 
+The Progressive Corporation,ZDA,PGR,$78.02 B,Finance,Zavarovanje premoženja in nezgod
 CNOOC Limited,Hong Kong,0883,$77.99 B,Energetika,Nafta in plin E&P
 Volkswagen,Nemčija,VOW,$77.55 B,Potrošniške storitve,Avtomobilska industrija
 Al Rajhi Banking and Investment Corp,Savdska Arabija,1120,$77.53 B,Finance,Banke-regionalno
-The Southern Company,ZDA,SO,$77.43 B,Javna služba,Komunala - Elektrika
+The Southern Company,ZDA,SO,$77.43 B,Javna služba,Komunala-elektrika
 Bayerische Motoren Werke AG,Nemčija,BMWB,$77.25 B,Potrošniške storitve,Avtomobilska industrija
 Illinois Tool Works Inc,ZDA,ITW,$77.21 B,Industrija,Posebni industrijski stroji
-"Iberdrola, SA",Španija,IBE,$76.57 B,Javna služba,Utilities—Diversified
+"Iberdrola, SA",Španija,IBE,$76.57 B,Javna služba,Komunala-razno
 "Palo Alto Networks, Inc",ZDA,PANW,$76.53 B,Tehnologija,Programska oprema
 Canadian National Railway Company,Kanada,CNR,$76.50 B,Industrija,Železnice
 Boston Scientific Corporation,ZDA,BSX,$75.41 B,Zdravstvo,Zdravstvene naprave
 BNP Paribas SA,Francija,BNP,$74.97 B,Finance,Banke-regionalno
-China Shenhua Energy Company Ltd,Kitajska,601088,$74.91 B,Energetika,Thermal Coal
-Enbridge Inc,Kanada,ENB,$74.47 B,Energetika,Oil & Gas Midstream
-China Yangtze Power Co Ltd,Kitajska,600900,$74.21 B,Javna služba,Utilities—Independent Power Producers
-Glencore plc,Švica,GLEN,$74.02 B,Osnovni materiali,Other Industrial Metals & Mining
+China Shenhua Energy Company Ltd,Kitajska,601088,$74.91 B,Energetika,Premog
+Enbridge Inc,Kanada,ENB,$74.47 B,Energetika,Nafta in plin-vmesni proces
+China Yangtze Power Co Ltd,Kitajska,600900,$74.21 B,Javna služba,Komunala-električna energija
+Glencore plc,Švica,GLEN,$74.02 B,Osnovni materiali,Industrijske kovine in rudarstvo
 PT Bank Central Asia Tbk,Indonezija,BBCA,$73.97 B,Finance,Banke-regionalno
 Canadian Pacific Railway Limited,Kanada,CP,$73.67 B,Industrija,Železnice
-"Becton, Dickinson and Company",ZDA,BDX,$73.65 B,Zdravstvo,Medical Instruments & Supplies
-"Equinix, Inc (REIT)",ZDA,EQIX,$73.61 B,Nepremičnine,REIT—Specialty
+"Becton, Dickinson and Company",ZDA,BDX,$73.65 B,Zdravstvo,Medicinski instrumenti in pripomočki
+"Equinix, Inc (REIT)",ZDA,EQIX,$73.61 B,Nepremičnine,Nepremičnine-posebnosti
 Fast Retailing Co Ltd,Japonska,9983,$73.57 B,Potrošniške storitve,Trgovina z oblačili
 "EOG Resources, Inc",ZDA,EOG,$73.54 B,Energetika,Nafta in plin E&P
 British American Tobacco plc,Združeno kraljestvo,BATS,$73.43 B,Osnovne potrebščine,Tobak
 "América Móvil, SAB de CV",Mehika,AMXA,$72.38 B,Komunikacijske storitve,Telekomunikacijske storitve
 GlaxoSmithKline plc,Združeno kraljestvo,GSK,$72.32 B,Zdravstvo,Zdravila
 "Micron Technology, Inc",ZDA,MU,$71.43 B,Tehnologija,Polprevodniki
-Saudi Basic Industries Corp,Savdska Arabija,2010,$70.78 B,Osnovni materiali,Chemicals
-"Activision Blizzard, Inc",ZDA,ATVI,$70.75 B,Komunikacijske storitve,Electronic Gaming & Multimedia
-MERCK Kommanditgesellschaft auf Aktien,Nemčija,MRK,$70.69 B,Zdravstvo,Drug Manufacturers—Specialty & Generic
+Saudi Basic Industries Corp,Savdska Arabija,2010,$70.78 B,Osnovni materiali,Kemikalije
+"Activision Blizzard, Inc",ZDA,ATVI,$70.75 B,Komunikacijske storitve,Elektronske igre in multimedija
+MERCK Kommanditgesellschaft auf Aktien,Nemčija,MRK,$70.69 B,Zdravstvo,Proizvajalci zdravil 
 China Telecom Corp Ltd,Hong Kong,0728,$70.55 B,Komunikacijske storitve,Telekomunikacijske storitve
 Wal-Mart de Mexico SAB de CV,Mehika,WALMEX,$70.43 B,Osnovne potrebščine,Trgovine s popusti
 Kering SA,Francija,KER,$70.06 B,Potrošniške storitve,Luksuzne dobrine
-Duke Energy Corporation,ZDA,DUK,$70.04 B,Javna služba,Komunala - Elektrika
+Duke Energy Corporation,ZDA,DUK,$70.04 B,Javna služba,Komunala-elektrika
 Northrop Grumman Corporation,ZDA,NOC,$69.97 B,Industrija,Letalstvo in obramba
 ABB Ltd,Švica,ABBN,$69.94 B,Industrija,Električna oprema in deli
-Enel SpA,Italija,ENEL,$69.76 B,Javna služba,Utilities—Diversified
+Enel SpA,Italija,ENEL,$69.76 B,Javna služba,Komunala-razno
 Infosys Limited,Indija,INFY,$69.48 B,Tehnologija,Storitve informacijske tehnologije
 "Waste Management, Inc",ZDA,WM,$69.32 B,Industrija,Waste Management
-Aon Plc,Združeno kraljestvo,AON,$69.28 B,Finance,Insurance Brokers
+Aon Plc,Združeno kraljestvo,AON,$69.28 B,Finance,Zavarovalni posredniki
 The Estée Lauder Companies Inc,ZDA,EL,$68.93 B,Osnovne potrebščine,Gospodinjski in osebni izdelki
 SoftBank Group Corp,Japonska,9984,$68.48 B,Komunikacijske storitve,Telekomunikacijske storitve
 CSX Corporation,ZDA,CSX,$68.17 B,Industrija,Železnice
 The Sherwin-Williams Company,ZDA,SHW,$68.01 B,Osnovni materiali,Specializirane kemikalije
 Mitsubishi Corp,Japonska,8058,$67.74 B,Industrija,Conglomerates
-Zurich Insurance Group AG,Švica,ZURN,$67.60 B,Finance,Insurance—Diversified
+Zurich Insurance Group AG,Švica,ZURN,$67.60 B,Finance,Zavarovanje-diverzificirano
 FedEx Corporation,ZDA,FDX,$67.51 B,Industrija,Tovorni promet in logistika
 "Synopsys, Inc",ZDA,SNPS,$67.26 B,Tehnologija,Programska oprema
 Vinci SA,Francija,DG,$66.64 B,Industrija,Engineering & Construction
 Foxconn Industrial Internet Co Ltd,Kitajska,601138,$66.39 B,Tehnologija,Komunikaciska oprema
-AXA SA,Francija,CS,$65.75 B,Finance,Insurance—Diversified
+AXA SA,Francija,CS,$65.75 B,Finance,Zavarovanje-diverzificirano
 Safran SA,Francija,SAF,$65.63 B,Industrija,Letalstvo in obramba
 CME Group Inc,ZDA,CME,$65.59 B,Finance,Finančni podatki in borze
 Tokyo Electron Ltd,Japonska,8035,$65.27 B,Tehnologija,Polprevodniška oprema in materiali
 Atlas Copco AB,Švedska,ATCO.A,$65.14 B,Industrija,Posebni industrijski stroji
 Bank of Montreal,Kanada,BMO,$64.98 B,Finance,Banke
 UBS Group AG,Švica,UBSG,$64.19 B,Finance,Banke
-"Air Products and Chemicals, Inc",ZDA,APD,$64.12 B,Osnovni materiali,Chemicals
-Shin-Etsu Chemical Co Ltd,Japonska,4063,$64.07 B,Osnovni materiali,Chemicals
+"Air Products and Chemicals, Inc",ZDA,APD,$64.12 B,Osnovni materiali,Kemikalije
+Shin-Etsu Chemical Co Ltd,Japonska,4063,$64.07 B,Osnovni materiali,Kemikalije
 "Intercontinental Exchange, Inc",ZDA,ICE,$64.05 B,Finance,Finančni podatki in borze
 KDDI Corp,Japonska,9433,$63.33 B,Komunikacijske storitve,Telekomunikacijske storitve
 KKR & Co Inc,ZDA,KKR,$63.31 B,Finance,Upravljanje sredstev
@@ -244,7 +244,7 @@ Colgate-Palmolive Company,ZDA,CL,$62.52 B,Osnovne potrebščine,Gospodinjski in 
 Moody's Corporation,ZDA,MCO,$62.28 B,Finance,Finančni podatki in borze
 RELX plc,Združeno kraljestvo,REL,$62.21 B,Komunikacijske storitve,Publishing
 Canadian Natural Resources Limited,Kanada,CNQ,$62.14 B,Energetika,Nafta in plin E&P
-Vale SA,Brazilija,VALE3,$61.99 B,Osnovni materiali,Other Industrial Metals & Mining
+Vale SA,Brazilija,VALE3,$61.99 B,Osnovni materiali,Industrijske kovine in rudarstvo
 "VMware, Inc",ZDA,VMW,$61.80 B,Tehnologija,Programska oprema
 Nongfu Spring Co Ltd,Kitajska,9633,$61.35 B,Osnovne potrebščine,Brezalkoholne pijače
 Ford Motor Company,ZDA,F,$60.91 B,Potrošniške storitve,Avtomobilska industrija
@@ -263,7 +263,7 @@ Thomson Reuters Corporation,Kanada,TRI,$58.79 B,Industrija,Consulting Services
 "Workday, Inc",ZDA,WDAY,$58.45 B,Tehnologija,Programska oprema
 Dassault Systèmes SE,Francija,DSY,$58.41 B,Tehnologija,Programska oprema
 Freeport-McMoRan Inc,ZDA,FCX,$58.38 B,Osnovni materiali,Copper
-Enterprise Products Partners LP,ZDA,EPD,$58.32 B,Energetika,Oil & Gas Midstream
+Enterprise Products Partners LP,ZDA,EPD,$58.32 B,Energetika,Nafta in plin-vmesni proces
 "Daikin Industries,Ltd",Japonska,6367,$58.19 B,Industrija,Building Products & Equipment
 Monster Beverage Corporation,ZDA,MNST,$58.12 B,Osnovne potrebščine,Brezalkoholne pijače
 "Marriott International, Inc",ZDA,MAR,$58.12 B,Potrošniške storitve,Lodging
@@ -291,7 +291,7 @@ National Australia Bank Limited,Avstralija,NAB,$55.10 B,Finance,Banke
 General Motors Company,ZDA,GM,$55.08 B,Potrošniške storitve,Avtomobilska industrija
 Stellantis NV,Nizozemska,STLA,$54.83 B,Potrošniške storitve,Avtomobilska industrija
 Humana Inc,ZDA,HUM,$54.63 B,Zdravstvo,Zdravstveno zavarovanje
-EDF,Francija,EDF,$54.60 B,Javna služba,Utilities—Diversified
+EDF,Francija,EDF,$54.60 B,Javna služba,Komunala-razno
 Mitsui & Co Ltd,Japonska,8031,$54.39 B,Energetika,Nafta in plin E&P
 Reckitt Benckiser Group plc,Združeno kraljestvo,RKT,$54.28 B,Osnovne potrebščine,Gospodinjski in osebni izdelki
 Bayer AG,Nemčija,BAYN,$53.38 B,Zdravstvo,Zdravila
@@ -316,10 +316,10 @@ Adyen NV,Nizozemska,ADYEN,$50.63 B,Tehnologija,Programska oprema
 "The PNC Financial Services Group, Inc",ZDA,PNC,$50.56 B,Finance,Banke-regionalno
 Amphenol Corporation,ZDA,APH,$50.52 B,Tehnologija,Electronic Components
 Cintas Corporation,ZDA,CTAS,$50.49 B,Industrija,Specialty Business Services
-Nintendo Co Ltd,Japonska,7974,$50.47 B,Komunikacijske storitve,Electronic Gaming & Multimedia
+Nintendo Co Ltd,Japonska,7974,$50.47 B,Komunikacijske storitve,Elektronske igre in multimedija
 Infineon Technologies AG,Nemčija,IFXA,$50.42 B,Tehnologija,Polprevodniki
 Atlassian Corporation Plc,Avstralija,TEAM,$50.35 B,Tehnologija,Programska oprema
-Crown Castle International Corp (REIT),ZDA,CCI,$50.28 B,Nepremičnine,REIT—Specialty
+Crown Castle International Corp (REIT),ZDA,CCI,$50.28 B,Nepremičnine,Nepremičnine-posebnosti
 Munich Re,Nemčija,MUV2,$49.87 B,Finance,Insurance—Reinsurance
 "Motorola Solutions, Inc",ZDA,MSI,$49.85 B,Tehnologija,Komunikaciska oprema
 Pioneer Natural Resources Company,ZDA,PXD,$49.82 B,Energetika,Nafta in plin E&P
@@ -328,8 +328,8 @@ Novatek PJSC,Rusija,NVTK,$49.34 B,Energetika,Nafta in plin E&P
 Eni SpA,Italija,ENI,$49.27 B,Energetika,Nafta in plin
 Shenzhen Mindray Bio-Medical Electronics Co Ltd,Kitajska,300760,$49.16 B,Zdravstvo,Zdravstvene naprave
 "DexCom, Inc",ZDA,DXCM,$49.13 B,Zdravstvo,Diagnostika in raziskave
-Recruit Holdings Co Ltd,Japonska,6098,$49.11 B,Industrija,Staffing & Employment Services
-National Grid plc,Združeno kraljestvo,NG.,$49.06 B,Javna služba,Utilities—Diversified
+Recruit Holdings Co Ltd,Japonska,6098,$49.11 B,Industrija,Zaposlitvene storitve
+National Grid plc,Združeno kraljestvo,NG.,$49.06 B,Javna služba,Komunala-razno
 Hong Kong Exchanges & Clearing Ltd,Hong Kong,0388,$49.05 B,Finance,Finančni podatki in borze
 Compass Group plc,Združeno kraljestvo,CPG,$48.95 B,Potrošniške storitve,Restavracije
 "Republic Services, Inc",ZDA,RSG,$48.88 B,Industrija,Waste Management
@@ -345,34 +345,34 @@ Ambev SA,Brazilija,ABEV3,$48.10 B,Osnovne potrebščine,Pijače-pivovarji
 "Honda Motor Co, Ltd",Japonska,7267,$48.01 B,Potrošniške storitve,Avtomobilska industrija
 DENSO Corp,Japonska,6902,$47.71 B,Potrošniške storitve,Auto Parts
 Australia and New Zealand Banking Group Limited,Avstralija,ANZ,$47.56 B,Finance,Banke
-Sempra Energy,ZDA,SRE,$47.46 B,Javna služba,Utilities—Diversified
+Sempra Energy,ZDA,SRE,$47.46 B,Javna služba,Komunala-razno
 "AutoZone, Inc",ZDA,AZO,$47.45 B,Potrošniške storitve,Specialty Retail
 Porsche,Nemčija,P911,$47.33 B,Potrošniške storitve,Avtomobilska industrija
 "AgriBank, FCB",ZDA,AGRIP,$47.27 B,Finance,Kreditne storitve
-Fortescue Metals Group Limited,Avstralija,FMG,$47.27 B,Osnovni materiali,Other Industrial Metals & Mining
+Fortescue Metals Group Limited,Avstralija,FMG,$47.27 B,Osnovni materiali,Industrijske kovine in rudarstvo
 Johnson Controls International plc,Irska,JCI,$47.09 B,Industrija,Engineering & Construction
 "MetLife, Inc",ZDA,MET,$46.76 B,Finance,Zdravstveno zavarovanje
 Hon Hai Precision Industry Co Ltd,Tajvan,2317,$46.70 B,Tehnologija,Electronic Components
-Takeda Pharmaceutical Company Limited,Japonska,4502,$46.59 B,Zdravstvo,Drug Manufacturers—Specialty & Generic
-Sempra,ZDA,SE4,$46.56 B,Javna služba,Utilities—Diversified
+Takeda Pharmaceutical Company Limited,Japonska,4502,$46.59 B,Zdravstvo,Proizvajalci zdravil 
+Sempra,ZDA,SE4,$46.56 B,Javna služba,Komunala-razno
 "Moderna, Inc",ZDA,MRNA,$46.56 B,Zdravstvo,Biotehnologija
 PACCAR Inc,ZDA,PCAR,$46.52 B,Industrija,Kmetijski in težki gradbeni stroji
-Arthur J Gallagher & Co,ZDA,AJG,$46.35 B,Finance,Insurance Brokers
+Arthur J Gallagher & Co,ZDA,AJG,$46.35 B,Finance,Zavarovalni posredniki
 STMicroelectronics NV,Švica,STM,$46.34 B,Tehnologija,Polprevodniki
-Uniper SE,Nemčija,UN01,$46.21 B,Javna služba,Utilities—Independent Power Producers
+Uniper SE,Nemčija,UN01,$46.21 B,Javna služba,Komunala-električna energija
 "Simon Property Group, Inc",ZDA,SPG,$46.19 B,Nepremičnine,REIT—Retail
 "Constellation Brands, Inc",ZDA,STZ.B,$46.05 B,Osnovne potrebščine,Vinarne in destilarne
 Kimberly-Clark Corporation,ZDA,KMB,$45.63 B,Osnovne potrebščine,Gospodinjski in osebni izdelki
 "Autodesk, Inc",ZDA,ADSK,$45.32 B,Tehnologija,Programska oprema
 DSV PANALPINA A-S,Danska,DSV,$45.00 B,Industrija,Tovorni promet in logistika
 "Banco Bilbao Vizcaya Argentaria, SA",Španija,BBVA,$44.89 B,Finance,Banke
-"Tokio Marine Holdings, Inc",Japonska,8766,$44.82 B,Finance,Insurance—Property & Casualty
-PacifiCorp,ZDA,PPWLM,$44.59 B,Javna služba,Utilities—Diversified
-"Dominion Energy, Inc",ZDA,D,$44.40 B,Javna služba,Utilities—Diversified
-BASF SE,Nemčija,BAS,$44.37 B,Osnovni materiali,Chemicals
+"Tokio Marine Holdings, Inc",Japonska,8766,$44.82 B,Finance,Zavarovanje premoženja in nezgod
+PacifiCorp,ZDA,PPWLM,$44.59 B,Javna služba,Komunala-razno
+"Dominion Energy, Inc",ZDA,D,$44.40 B,Javna služba,Komunala-razno
+BASF SE,Nemčija,BAS,$44.37 B,Osnovni materiali,Kemikalije
 TE Connectivity Ltd,Švica,TEL,$44.37 B,Tehnologija,Electronic Components
 Industrial Bank Co Ltd,Kitajska,601166,$44.33 B,Finance,Banke-regionalno
-"American Electric Power Company, Inc",ZDA,AEP,$44.29 B,Javna služba,Komunala - Elektrika
+"American Electric Power Company, Inc",ZDA,AEP,$44.29 B,Javna služba,Komunala-elektrika
 Carrier Global Corporation,ZDA,CARR,$44.25 B,Industrija,Building Products & Equipment
 Macquarie Group Limited,Avstralija,MQG,$44.11 B,Finance,Kapitalski trgi
 ON Semiconductor Corporation,ZDA,ON,$44.07 B,Tehnologija,Polprevodniki
@@ -389,12 +389,12 @@ Lonza Group Ltd,Švica,LONN,$43.73 B,Zdravstvo,Diagnostika in raziskave
 Archer-Daniels-Midland Company,ZDA,ADM,$43.12 B,Osnovne potrebščine,Farm Products
 "Block, Inc",ZDA,SQ,$43.04 B,Tehnologija,Programska oprema
 Woodside Energy Group Ltd,Avstralija,WDS,$43.01 B,Energetika,Nafta in plin E&P
-Saudi Arabian Mining Company,Savdska Arabija,1211,$42.91 B,Osnovni materiali,Other Industrial Metals & Mining
+Saudi Arabian Mining Company,Savdska Arabija,1211,$42.91 B,Osnovni materiali,Industrijske kovine in rudarstvo
 Capital One Financial Corporation,ZDA,COF,$42.84 B,Finance,Kreditne storitve
 "IDEXX Laboratories, Inc",ZDA,IDXX,$42.74 B,Zdravstvo,Diagnostika in raziskave
-"American International Group, Inc",ZDA,AIG,$42.61 B,Finance,Insurance—Diversified
+"American International Group, Inc",ZDA,AIG,$42.61 B,Finance,Zavarovanje-diverzificirano
 Aflac Incorporated,ZDA,AFL,$42.60 B,Finance,Zdravstveno zavarovanje
-"Paychex, Inc",ZDA,PAYX,$42.59 B,Industrija,Staffing & Employment Services
+"Paychex, Inc",ZDA,PAYX,$42.59 B,Industrija,Zaposlitvene storitve
 UniCredit SpA,Italija,UCG,$42.46 B,Finance,Banke-regionalno
 Jiangsu Hengrui Medicine Co Ltd,Kitajska,600276,$42.42 B,Zdravstvo,Zdravila
 Sika AG,Švica,SIKA,$42.30 B,Osnovni materiali,Specializirane kemikalije
@@ -403,17 +403,17 @@ Zijin Mining Group Co Ltd,Kitajska,601899,$42.17 B,Osnovni materiali,Gold
 AH Belo Corporation,ZDA,AHC,$41.99 B,Komunikacijske storitve,Publishing
 Constellation Software Inc,Kanada,CSU,$41.98 B,Tehnologija,Programska oprema
 Las Vegas Sands Corp,ZDA,LVS,$41.85 B,Potrošniške storitve,Resorts & Casinos
-PG&E Corporation,ZDA,PCG,$41.59 B,Javna služba,Komunala - Elektrika
+PG&E Corporation,ZDA,PCG,$41.59 B,Javna služba,Komunala-elektrika
 CRH plc,Irska,CRH,$41.56 B,Osnovni materiali,Building Materials
 Realty Income Corporation,ZDA,O,$41.54 B,Nepremičnine,REIT—Retail
-Exelon Corporation,ZDA,EXC,$41.49 B,Javna služba,Utilities—Diversified
+Exelon Corporation,ZDA,EXC,$41.49 B,Javna služba,Komunala-razno
 "Old Dominion Freight Line, Inc",ZDA,ODFL,$41.45 B,Industrija,Trucking
 Hapag-Lloyd AG,Nemčija,HLAG,$41.29 B,Industrija,Marine Shipping
-Energy Transfer LP,ZDA,ET,$41.15 B,Energetika,Oil & Gas Midstream
+Energy Transfer LP,ZDA,ET,$41.15 B,Energetika,Nafta in plin-vmesni proces
 Truist Financial Corporation,ZDA,TFC,$41.07 B,Finance,Banke-regionalno
 Valero Energy Corporation,ZDA,VLO,$40.87 B,Energetika,Oil & Gas Refining & Marketing
-Banque Nationale de Belgique,Indonezija,BNB,$40.85 B,Energetika,Thermal Coal
-General Accident plc,Združeno kraljestvo,GACA,$40.80 B,Finance,Insurance—Property & Casualty
+Banque Nationale de Belgique,Indonezija,BNB,$40.85 B,Energetika,Premog
+General Accident plc,Združeno kraljestvo,GACA,$40.80 B,Finance,Zavarovanje premoženja in nezgod
 "DR Horton, Inc",ZDA,DHI,$40.73 B,Potrošniške storitve,Residential Construction
 "Corteva, Inc",ZDA,CTVA,$40.69 B,Osnovni materiali,Agricultural Inputs
 Biogen Inc,ZDA,BIIB,$40.52 B,Zdravstvo,Zdravila
@@ -422,18 +422,18 @@ Oversea-Chinese Banking Corp Ltd,Singapur,O39,$40.38 B,Finance,Banke-regionalno
 BCE Inc,Kanada,BCE,$40.37 B,Komunikacijske storitve,Telekomunikacijske storitve
 AB Volvo,Švedska,VOL4,$40.35 B,Industrija,Kmetijski in težki gradbeni stroji
 IQVIA Holdings Inc,ZDA,IQV,$40.23 B,Zdravstvo,Diagnostika in raziskave
-Alcon Inc,Švica,ALC,$40.22 B,Zdravstvo,Medical Instruments & Supplies
+Alcon Inc,Švica,ALC,$40.22 B,Zdravstvo,Medicinski instrumenti in pripomočki
 Hilton Worldwide Holdings Inc,ZDA,HLT,$40.19 B,Potrošniške storitve,Lodging
 PJSC Lukoil,Rusija,LKOH,$40.13 B,Energetika,Nafta in plin
-"The Travelers Companies, Inc",ZDA,TRV,$40.11 B,Finance,Insurance—Property & Casualty
-HOYA Corp,Japonska,7741,$39.96 B,Zdravstvo,Medical Instruments & Supplies
+"The Travelers Companies, Inc",ZDA,TRV,$40.11 B,Finance,Zavarovanje premoženja in nezgod
+HOYA Corp,Japonska,7741,$39.96 B,Zdravstvo,Medicinski instrumenti in pripomočki
 Welltower Inc,ZDA,WELL,$39.86 B,Nepremičnine,REIT—Healthcare Facilities
-Engie SA,Francija,ENGI,$39.78 B,Javna služba,Utilities—Diversified
+Engie SA,Francija,ENGI,$39.78 B,Javna služba,Komunala-razno
 Danone SA,Francija,BN,$39.62 B,Osnovne potrebščine,Packaged Foods
 MSCI Inc,ZDA,MSCI,$39.47 B,Finance,Finančni podatki in borze
 Prudential plc,Združeno kraljestvo,PRU,$39.46 B,Finance,Zdravstveno zavarovanje
-"The Williams Companies, Inc",ZDA,WMB,$39.44 B,Energetika,Oil & Gas Midstream
-TC Energy Corporation,Kanada,TRP,$39.44 B,Energetika,Oil & Gas Midstream
+"The Williams Companies, Inc",ZDA,WMB,$39.44 B,Energetika,Nafta in plin-vmesni proces
+TC Energy Corporation,Kanada,TRP,$39.44 B,Energetika,Nafta in plin-vmesni proces
 Dell Technologies Inc,ZDA,DELL,$39.39 B,Tehnologija,Computer Hardware
 "Rockwell Automation, Inc",ZDA,ROK,$39.35 B,Industrija,Posebni industrijski stroji
 CITIC Securities Company Ltd,Kitajska,600030,$39.23 B,Finance,Kapitalski trgi
@@ -441,18 +441,18 @@ AmerisourceBergen Corporation,ZDA,ABC,$39.09 B,Zdravstvo,Medical Distribution
 "WW Grainger, Inc",ZDA,GWW,$38.94 B,Industrija,Industrial Distribution
 "Mizuho Financial Group, Inc",Japonska,8411,$38.93 B,Finance,Banke-regionalno
 Suncor Energy Inc,Kanada,SU,$38.88 B,Energetika,Nafta in plin
-"Kinder Morgan, Inc",ZDA,KMI,$38.79 B,Energetika,Oil & Gas Midstream
-Wanhua Chemical Group Co Ltd,Kitajska,600309,$38.74 B,Osnovni materiali,Chemicals
-Grupo Mexico SAB de CV,Mehika,GMEXICOB,$38.73 B,Osnovni materiali,Other Industrial Metals & Mining
-Anglo American plc,Združeno kraljestvo,AAL,$38.56 B,Osnovni materiali,Other Industrial Metals & Mining
-"Cheniere Energy, Inc",ZDA,LNG,$38.54 B,Energetika,Oil & Gas Midstream
+"Kinder Morgan, Inc",ZDA,KMI,$38.79 B,Energetika,Nafta in plin-vmesni proces
+Wanhua Chemical Group Co Ltd,Kitajska,600309,$38.74 B,Osnovni materiali,Kemikalije
+Grupo Mexico SAB de CV,Mehika,GMEXICOB,$38.73 B,Osnovni materiali,Industrijske kovine in rudarstvo
+Anglo American plc,Združeno kraljestvo,AAL,$38.56 B,Osnovni materiali,Industrijske kovine in rudarstvo
+"Cheniere Energy, Inc",ZDA,LNG,$38.54 B,Energetika,Nafta in plin-vmesni proces
 FEMSA,Mehika,FEMSAUBD,$38.53 B,Osnovne potrebščine,Pijače-pivovarji
 Canadian Imperial Bank of Commerce,Kanada,CM,$38.53 B,Finance,Banke
 "Ross Stores, Inc",ZDA,ROST,$38.50 B,Potrošniške storitve,Trgovina z oblačili
-Dow Inc,ZDA,DOW,$38.28 B,Osnovni materiali,Chemicals
+Dow Inc,ZDA,DOW,$38.28 B,Osnovni materiali,Kemikalije
 Palantir Technologies Inc,ZDA,PLTR,$38.24 B,Tehnologija,Programska oprema
 "Yum! Brands, Inc",ZDA,YUM,$38.04 B,Potrošniške storitve,Restavracije
-Haleon plc,Združeno kraljestvo,HLN,$37.99 B,Zdravstvo,Drug Manufacturers—Specialty & Generic
+Haleon plc,Združeno kraljestvo,HLN,$37.99 B,Zdravstvo,Proizvajalci zdravil 
 Sysco Corporation,ZDA,SYY,$37.71 B,Osnovne potrebščine,Food Distribution
 "Beijing-Shanghai High-Speed Railway Co,Ltd",Kitajska,601816,$37.64 B,Industrija,Železnice
 GE HealthCare,ZDA,GEHC,$37.42 B,Zdravstvo,Health Information Services
@@ -487,12 +487,12 @@ Lennar Corporation,ZDA,LEN,$35.90 B,Potrošniške storitve,Residential Construct
 Delta Electronics,Tajska,DELTA,$35.76 B,Industrija,Električna oprema in deli
 "Waste Connections, Inc",ZDA,WCN,$35.70 B,Industrija,Waste Management
 "Fidelity National Information Services, Inc",ZDA,FIS,$35.64 B,Tehnologija,Storitve informacijske tehnologije
-Sea Limited,Singapur,SE,$35.52 B,Komunikacijske storitve,Electronic Gaming & Multimedia
+Sea Limited,Singapur,SE,$35.52 B,Komunikacijske storitve,Elektronske igre in multimedija
 The Bank of New York Mellon Corporation,ZDA,BK,$35.46 B,Finance,Upravljanje sredstev
 Murata Manufacturing Co Ltd,Japonska,6981,$35.33 B,Tehnologija,Electronic Components
-Halliburton Company,ZDA,HAL,$35.29 B,Energetika,Oil & Gas Equipment & Services
+Halliburton Company,ZDA,HAL,$35.29 B,Energetika,Oprema in storitve za nafto in plin
 BAE Systems plc,Združeno kraljestvo,BA.,$35.27 B,Industrija,Letalstvo in obramba
-Electronic Arts Inc,ZDA,EA,$35.16 B,Komunikacijske storitve,Electronic Gaming & Multimedia
+Electronic Arts Inc,ZDA,EA,$35.16 B,Komunikacijske storitve,Elektronske igre in multimedija
 "MediaTek, Inc",Tajvan,2454,$35.04 B,Tehnologija,Polprevodniki
 "Ameriprise Financial, Inc",ZDA,AMP,$35.02 B,Finance,Upravljanje sredstev
 "Agilent Technologies, Inc",ZDA,A,$35.01 B,Zdravstvo,Diagnostika in raziskave
