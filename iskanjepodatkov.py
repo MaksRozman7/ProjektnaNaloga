@@ -5,7 +5,7 @@ url = "https://disfold.com/world/companies/?page=1"
 rezultat = requests.get(url).text
 doc = BeautifulSoup(rezultat, "html.parser")
 
-for stran in range(1, 10):
+for stran in range(1, 11):
     url = f"https://disfold.com/world/companies/?page={stran}"
     stran = requests.get(url).text
     doc = BeautifulSoup(stran, "html.parser")
@@ -216,4 +216,6 @@ for stran in range(1, 10):
      Vse_skupaj = print({'ime': Podjetja[i], 'država': Države[i], 'kratica': Kratice[i], 'vrednost': Vrednosti[i], 'sektor': Sektorji[i], 'industrija': Industrije[i]})
 
     print(Vse_skupaj)
+
+    
 
