@@ -432,6 +432,39 @@ for stran in range(1, 11):
         
         if Industrije[i] == "Residential Construction":
             Industrije[i] = "Stanovanjska gradnja"
+        
+        if Industrije[i] == "Agricultural Inputs":
+            Industrije[i] = "Kmetijski vložki"
+        
+        if Industrije[i] == "REIT—Healthcare Facilities":
+            Industrije[i] = "REIT-zdravstveni objekti"
+        
+        if Industrije[i] == "Food Distribution":
+            Industrije[i] = "Distribucija hrane"
+        
+        if Industrije[i] == "Health Information Services":
+            Industrije[i] = "Storitve zdravstvenih informacij"
+        
+        if Industrije[i] == "Gambling":
+            Industrije[i] = "Igre na srečo"
+        
+        if Industrije[i] == "Utilities—Renewable":
+            Industrije[i] = "Komunalne storitve-obnovljivi viri"
+        
+        if Industrije[i] == "Real Estate Services":
+            Industrije[i] = "Nepremičninske storitve"
+        
+        if Industrije[i] == "Real Estate—Development":
+            Industrije[i] = "Nepremičnine-razvoj"
+        
+        
+        
+        
+
+        
+        
+
+    
     
     
     
