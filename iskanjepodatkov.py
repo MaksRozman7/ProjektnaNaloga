@@ -336,6 +336,48 @@ for stran in range(1, 11):
         
         if Industrije[i] == "Electronic Gaming & Multimedia":
             Industrije[i] = "Elektronske igre in multimedija"
+        
+        if Industrije[i] == "Waste Management":
+            Industrije[i] = "Ravnanje z odpadki"
+        
+        if Industrije[i] == "Conglomerates":
+            Industrije[i] = "Konglomerati"
+        
+        if Industrije[i] == "Engineering & Construction":
+            Industrije[i] = "Inženirstvo in gradbeništvo"
+        
+        if Industrije[i] == "Leisure":
+            Industrije[i] = "Prosti čas"
+        
+        if Industrije[i] == "Publishing":
+            Industrije[i] = "Založništvo"
+        
+        if Industrije[i] == "Pharmaceutical Retailers":
+            Industrije[i] = "Farmacevtski trgovci na drobno"
+        
+        if Industrije[i] == "Specialty Retail":
+            Industrije[i] = "Posebna maloprodaja"
+        
+        if Industrije[i] == "Consulting Services":
+            Industrije[i] = "Svetovalne storitve "
+        
+        if Industrije[i] == "Copper":
+            Industrije[i] = "Baker"
+        
+        if Industrije[i] == "Building Products & Equipment":
+            Industrije[i] = "Gradbeni izdelki in oprema"
+        
+        if Industrije[i] == "Lodging":
+            Industrije[i] = "Prenočišča"
+        
+        if Industrije[i] == "Medical Distribution":
+            Industrije[i] = "Medicinska distribucija"
+        
+        if Industrije[i] == "Rental & Leasing Services":
+            Industrije[i] = "Storitve najema in zakupa"
+        
+        if Industrije[i] == "Computer Hardware":
+            Industrije[i] = "Računalniška strojna oprema"
     
 
 
