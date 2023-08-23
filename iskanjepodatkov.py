@@ -378,6 +378,62 @@ for stran in range(1, 11):
         
         if Industrije[i] == "Computer Hardware":
             Industrije[i] = "Računalniška strojna oprema"
+        
+        if Industrije[i] == "Oil & Gas Refining & Marketing":
+            Industrije[i] = "Rafiniranje nafte in plina"
+        
+        if Industrije[i] == "Industrial Distribution":
+            Industrije[i] = "Industrijska distribucija"
+        
+        if Industrije[i] == "Electronic Componentss":
+            Industrije[i] = "Elektronske komponente"
+        
+        if Industrije[i] == "Specialty Business Services":
+            Industrije[i] = "Posebne poslovne storitve"
+        
+        if Industrije[i] == "Insurance—Reinsurance":
+            Industrije[i] = "Zavarovanje-pozavarovanje"
+        
+        if Industrije[i] == "Grocery Stores":
+            Industrije[i] = "Trgovine z živili"
+        
+        if Industrije[i] == "Auto Parts":
+            Industrije[i] = "Avtomobilski deli"
+        
+        if Industrije[i] == "Electronic Components":
+            Industrije[i] = "Elektronske komponente"
+        
+        if Industrije[i] == "REIT—Retail":
+            Industrije[i] = "REIT-maloprodaja"
+        
+        if Industrije[i] == "Packaged Foods":
+            Industrije[i] = "Pakirana živila"
+        
+        if Industrije[i] == "Farm Products":
+            Industrije[i] = "Kmetijski izdelki"
+        
+        if Industrije[i] == "Steel":
+            Industrije[i] = "Jeklo"
+        
+        if Industrije[i] == "Gold":
+            Industrije[i] = "Zlato"
+        
+        if Industrije[i] == "Resorts & Casinos":
+            Industrije[i] = "Letovišča in igralnice"
+        
+        if Industrije[i] == "Building Materials":
+            Industrije[i] = "Gradbeni materiali"
+        
+        if Industrije[i] == "Trucking":
+            Industrije[i] = "Tovorni promet"
+        
+        if Industrije[i] == "Marine Shipping":
+            Industrije[i] = "Pomorski promet"
+        
+        if Industrije[i] == "Residential Construction":
+            Industrije[i] = "Stanovanjska gradnja"
+    
+    
     
 
 
