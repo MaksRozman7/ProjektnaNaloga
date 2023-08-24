@@ -66,9 +66,17 @@ for stran in range(1, 11):
 
     vrednosti1 = []
     
+    def v_številko(vrednost):
+        if vrednost.endswith("T"):
+            return float(vrednost[:-1]) * 1000
+        elif vrednost.endswith("B"):
+            return float(vrednost[:-1])
+
+
     for vrednost in vrednosti:
+        vrednost = vrednost.replace("$", "")
         if len(vrednost) <= 105:
-            vrednosti1.append(vrednost.lstrip().rstrip().replace("\n", ""))
+            vrednosti1.append(v_številko(vrednost.lstrip().rstrip().replace("\n", "")))
         else:
             vred = vrednost[:150]
             vrednosti1.append(vred.lstrip().rstrip().replace("\n", ""))
@@ -569,7 +577,7 @@ for stran in range(1, 11):
         for firma in seznam:
             writer.writerow([firma["ime"], firma["država"], firma["kratica"], firma["vrednost"], firma["sektor"], firma["industrija"]])
     
-    #print(Vrednosti)      
+    print(Vrednosti)      
    
     
     

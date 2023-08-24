@@ -1,7 +1,9 @@
 import pandas as pd
 
-podjetja = pd.read_csv("podatkiPodjetja.csv", index_col='id')
+podjetja = pd.read_csv("podatkiPodjetja.csv")
 
 pd.options.display.max_rows = 20
 
-podjetja.head()
+
+
+print(podjetja.vrednost >= 3)
