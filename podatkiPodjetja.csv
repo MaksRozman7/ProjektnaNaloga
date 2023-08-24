@@ -103,7 +103,7 @@ TD Bank,Kanada,TD,119.48,Finance,Banke
 The Blackstone Group Inc,ZDA,BX,118.32,Finance,Upravljanje sredstev
 Lockheed Martin,ZDA,LMT,118.1,Industrija,Letalstvo in obramba
 "Industria de Diseño Textil, SA",Španija,ITX,117.83,Potrošniške storitve,Trgovina z oblačili
-SinoCloud Group Ltd,Hong Kong,5EK,117.42 B,Tehnologija,Storitve informacijske tehnologije
+SinoCloud Group Ltd,Hong Kong,5EK,117.42,Tehnologija,Storitve informacijske tehnologije
 Medtronic,Irska,MDT,117.3,Zdravstvo,Zdravstvene naprave
 Amgen,ZDA,AMGN,116.83,Zdravstvo,Zdravila
 Ping An Insurance,Kitajska,601318,116.7,Finance,Zdravstveno zavarovanje
@@ -195,7 +195,7 @@ Canadian Pacific Railway Limited,Kanada,CP,73.67,Industrija,Železnice
 Fast Retailing Co Ltd,Japonska,9983,73.57,Potrošniške storitve,Trgovina z oblačili
 "EOG Resources, Inc",ZDA,EOG,73.54,Energetika,Nafta in plin E&P
 British American Tobacco plc,Združeno kraljestvo,BATS,73.43,Osnovne potrebščine,Tobak
-"América Móvil, SAB de CV",Mehika,AMXA,72.38 B,Komunikacijske storitve,Telekomunikacijske storitve
+"América Móvil, SAB de CV",Mehika,AMXA,72.38,Komunikacijske storitve,Telekomunikacijske storitve
 GlaxoSmithKline plc,Združeno kraljestvo,GSK,72.32,Zdravstvo,Zdravila
 "Micron Technology, Inc",ZDA,MU,71.43,Tehnologija,Polprevodniki
 Saudi Basic Industries Corp,Savdska Arabija,2010,70.78,Osnovni materiali,Kemikalije
@@ -291,7 +291,7 @@ National Australia Bank Limited,Avstralija,NAB,55.1,Finance,Banke
 General Motors Company,ZDA,GM,55.08,Potrošniške storitve,Avtomobilska industrija
 Stellantis NV,Nizozemska,STLA,54.83,Potrošniške storitve,Avtomobilska industrija
 Humana Inc,ZDA,HUM,54.63,Zdravstvo,Zdravstveno zavarovanje
-EDF,Francija,EDF,54.60 B,Javna služba,Komunala-razno
+EDF,Francija,EDF,54.6,Javna služba,Komunala-razno
 Mitsui & Co Ltd,Japonska,8031,54.39,Energetika,Nafta in plin E&P
 Reckitt Benckiser Group plc,Združeno kraljestvo,RKT,54.28,Osnovne potrebščine,Gospodinjski in osebni izdelki
 Bayer AG,Nemčija,BAYN,53.38,Zdravstvo,Zdravila
@@ -461,7 +461,7 @@ GE HealthCare,ZDA,GEHC,37.42,Zdravstvo,Storitve zdravstvenih informacij
 Flutter Entertainment plc,Irska,FLTR,37.28,Potrošniške storitve,Igre na srečo
 Dollar General Corporation,ZDA,DG,37.28,Osnovne potrebščine,Trgovine s popusti
 Centene Corporation,ZDA,CNC,37.19,Zdravstvo,Zdravstveno zavarovanje
-"Apollo Global Management, Inc",ZDA,APO,37.10 B,Finance,Upravljanje sredstev
+"Apollo Global Management, Inc",ZDA,APO,37.1,Finance,Upravljanje sredstev
 Lloyds Banking Group plc,Združeno kraljestvo,LLOY,37.06,Finance,Banke-regionalno
 "The Trade Desk, Inc",ZDA,TTD,37.02,Tehnologija,Programska oprema
 Wesfarmers Limited,Avstralija,WES,36.82,Potrošniške storitve,Oprema za dom

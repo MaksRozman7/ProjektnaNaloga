@@ -79,7 +79,7 @@ for stran in range(1, 11):
             vrednosti1.append(v_številko(vrednost.lstrip().rstrip().replace("\n", "")))
         else:
             vred = vrednost[:150]
-            vrednosti1.append(vred.lstrip().rstrip().replace("\n", ""))
+            vrednosti1.append(v_številko(vred.lstrip().rstrip().replace("\n", "")))
 
 
     kratice1 = []
@@ -577,7 +577,7 @@ for stran in range(1, 11):
         for firma in seznam:
             writer.writerow([firma["ime"], firma["država"], firma["kratica"], firma["vrednost"], firma["sektor"], firma["industrija"]])
     
-    print(Vrednosti)      
+    print(Vrednosti)     
    
     
     
