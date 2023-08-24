@@ -457,25 +457,6 @@ for stran in range(1, 11):
         if Industrije[i] == "Real Estate—Development":
             Industrije[i] = "Nepremičnine-razvoj"
         
-        
-        
-        
-
-        
-        
-
-    
-    
-    
-    
-
-
-
-
-
-
-
-
  
     for i in range(len(Države)):
         if Države[i] == "United States":
