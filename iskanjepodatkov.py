@@ -577,7 +577,7 @@ for stran in range(1, 11):
         for firma in seznam:
             writer.writerow([firma["ime"], firma["država"], firma["kratica"], firma["vrednost"], firma["sektor"], firma["industrija"]])
     
-    print(Vrednosti)     
+    
    
     
     
