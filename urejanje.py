@@ -16,4 +16,8 @@ sektor_vrednosti = podjetja.groupby("sektor").agg({"ime": "count", "vrednost": "
 
 sektor_povprečna_vrednost = podjetja.groupby("sektor")["vrednost"].mean().sort_values(ascending=False)
 
-print(sektor_povprečna_vrednost)
+
+
+#print(sektor_povprečna_vrednost)
+
+skupna_vrednost_držav.to_csv("skupno_države.csv")
