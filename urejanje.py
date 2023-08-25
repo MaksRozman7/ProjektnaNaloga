@@ -6,18 +6,27 @@ pd.options.display.max_rows = 20
 
 
 
-firme_po_državah = podjetja.groupby("država").agg({"ime": "count", "vrednost": "sum"})
+vrednost_po_državah = podjetja.groupby("država").agg({"vrednost": "sum"})
 
-skupna_vrednost_držav = firme_po_državah.sort_values("vrednost", ascending=False)
+število_po_državah = podjetja.groupby("država").agg({"ime": "count"})
 
-podjetja_na_državo = firme_po_državah.sort_values("ime", ascending=False)
+vrednost_države = vrednost_po_državah.sort_values("vrednost", ascending=False).round(2)
+
+št_podjetij_na_državo = število_po_državah.sort_values("ime", ascending=False)
     
-sektor_vrednosti = podjetja.groupby("sektor").agg({"ime": "count", "vrednost": "sum"}).sort_values("vrednost", ascending=False)
+vrednosti_sektorjev = podjetja.groupby("sektor").agg({"vrednost": "sum"}).sort_values("vrednost", ascending=False).round(2)
 
-sektor_povprečna_vrednost = podjetja.groupby("sektor")["vrednost"].mean().sort_values(ascending=False)
+povprečna_vrednost_sektorja = podjetja.groupby("sektor")["vrednost"].mean().sort_values(ascending=False).round(2)
 
 
 
-#print(sektor_povprečna_vrednost)
 
-skupna_vrednost_držav.to_csv("skupno_države.csv")
+vrednost_države.to_csv("vrednost_države.csv")
+
+št_podjetij_na_državo.to_csv("št_podjetij_na_državo.csv")
+
+vrednosti_sektorjev.to_csv("vrednosti_sektorjev.csv")
+
+povprečna_vrednost_sektorja.to_csv("povprečna_vrednost_sektorja.csv")
+
+    
