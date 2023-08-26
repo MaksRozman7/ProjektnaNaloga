@@ -18,8 +18,8 @@ for stran in range(1, 11):
 
 
     sez = []
-    for stvar in ime:
-        sez.append(stvar.string.lstrip().rstrip().replace("\n", ""))
+    for podatek in ime:
+        sez.append(podatek.string.lstrip().rstrip().replace("\n", ""))
     sez.pop(0)
     sez.pop(-1)
     sez.pop(-1)
@@ -44,25 +44,25 @@ for stran in range(1, 11):
     ostalo = doc.find_all("td")
 
 
-    sez7 = []
+    sez_ostalo = []
     for stvar in ostalo:
-        sez7.append(stvar.text)
+        sez_ostalo.append(stvar.text)
 
 
 
-    del sez7[::7]
-    del sez7[::6]
+    del sez_ostalo[::7]
+    del sez_ostalo[::6]
 
 
-    vrednosti = sez7[0::5]
+    vrednosti = sez_ostalo[0::5]
 
-    kratice = sez7[1::5]
+    kratice = sez_ostalo[1::5]
 
-    države = sez7[2::5]
+    države = sez_ostalo[2::5]
 
-    sektorji = sez7[3::5]
+    sektorji = sez_ostalo[3::5]
 
-    industrije = sez7[4::5]
+    industrije = sez_ostalo[4::5]
 
     vrednosti1 = []
     
