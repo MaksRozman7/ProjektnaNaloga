@@ -5,7 +5,7 @@ from urejanje import porazdelitev_sektorjev, porazdelitev_držav, vrednost_drža
 from urejanje import podjetja
 
 
-plt.pie(porazdelitev_držav, radius=1.1, autopct="%0.2f%%")
+plt.pie(porazdelitev_držav, radius=1.2, autopct="%0.2f%%")
 plt.title("Odstotek podjetij na državo")
 plt.legend(labels=podjetja.država.unique(), loc='upper left', bbox_to_anchor=(1.1, 1.1))
 plt.show()
@@ -13,16 +13,15 @@ plt.show()
 
 
 
-plt.figure(figsize=(12, 6))
+
 vrednost_države = vrednost_države[:10]
-vrednost_države.plot(kind='bar')
-plt.title("Skupna vrednost po državi(top 10)")
-plt.xlabel("Država")
-plt.ylabel("Vrednost(mrd.)")
+ax = vrednost_države.plot(kind='bar', figsize=(10, 5))
+ax.set_xlabel('Država', fontsize=12)
+ax.set_ylabel('Skupna vrednost podjetij(mrd.)', fontsize=12)
+plt.title("Skupna vrednost podjetij (top 10)")
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
-
 
 
 plt.figure(figsize=(12, 6))
