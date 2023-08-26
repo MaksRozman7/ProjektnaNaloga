@@ -22,7 +22,7 @@ povprečna_vrednost_sektorja = podjetja.groupby("sektor")["vrednost"].mean().sor
 
 porazdelitev_industrij = podjetja.industrija.value_counts()
 
-top10_vrednost = podjetja.nlargest(10, "vrednost")[["ime", "vrednost"]]
+
 
 
 porazdelitev_držav.to_csv("porazdelitev_držav.csv")  
@@ -36,4 +36,3 @@ povprečna_vrednost_sektorja.to_csv("povprečna_vrednost_sektorja.csv")
 
 porazdelitev_industrij.to_csv("porazdelitev_industrij.csv")
 
-top10_vrednost.to_csv("top10_vrednost.csv")
