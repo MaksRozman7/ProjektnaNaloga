@@ -15,6 +15,7 @@ Vsi podatki so urejeno shranjeni v datoteki podatkiPodjetja.csv. V datoteki urej
 Ker ZDA veljajo za gospodarsko velesilo, me je zanimalo v kolikšni meri to drži. Zato sem preveril kakšen tržni delež imajo njihova podjetja in pa koliko so vredna v primerjavi z ostalimi državami. Prav tako sem želel vedeti, kakšna so razmerja moči med različnimi sektorji in industrijami. Za konec sem preveril še, kakšna je povezava med vrednostjo podjetja in sektorjem kateremu pripada, ter porazdelitev podjetij glede na vrednost.
 
 Vse vrednosti so v milijardah dolarjev.
+Podatki so iz 1-7-2023.
 
 
 ## Navodila za uporabo
