@@ -62,7 +62,7 @@ plt.show()
 
 
 sns.scatterplot(data=podjetja, x='vrednost', y='sektor')
-plt.title("Povezava med sektorjem in vrednostjo podjetja")
+plt.title("Povezava med sektorjem in vrednostjo podjetja (izstopanje)")
 plt.xlabel("Vrednost(mrd.)")
 plt.ylabel("Sektor")
 plt.tight_layout()
@@ -70,7 +70,7 @@ plt.show()
 
 plt.figure(figsize=(12, 6))
 plt.hist(podjetja['vrednost'], bins=15, color=["purple"])
-plt.title("Histogram vrednosti podjetij")
+plt.title("Histogram števila podjetij glede na vrednost")
 plt.xlabel("Vrednost(mrd.)")
 plt.ylabel("Število podjetij")
 plt.tight_layout()
