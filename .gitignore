@@ -1,5 +1,7 @@
 vrednosti_sektorjev.csv
-
+vrednost_države.csv
+porazdelitev_držav.csv
+porazdelitev_industrij.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
