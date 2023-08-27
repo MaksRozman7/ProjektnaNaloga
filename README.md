@@ -20,6 +20,6 @@ Podatki so iz 1-7-2023.
 ## Navodila za uporabo
 V datoteki iskanjepodatkov.py je koda za pridobivanje in urejanje podatkov s spletne strani. V urejanje.py sem podatke pogrupiral v želene skupine, v grafi.py pa narisal potrebne grafe. Končni izsledki so predstavljeni v predstavitev.ipynb.
 
-Uporabnik lahko prebere zgolj jupyter datoteko, če pa želi pognati program, mora prenesti podatke iz določenih datotek in pa knjižnjice. Kaj točno je potrebno je navedeno na začetku predstavitev.ipynb.
+Uporabnik lahko prebere zgolj jupyter datoteko, če pa želi pognati program, mora prenesti nekatere knjižnjice in pa podatke iz določenih datotek. Kaj točno je potrebno, je navedeno na začetku predstavitev.ipynb.
 
 V repozitoriju so dodani tudi csv-ji, če koga to zanima oziroma jih potrebuje. Glavni csv z vsemi podatki je podatkiPodjetja.csv, ostali pa so podatki, uporabljeni za grafe.
