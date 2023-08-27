@@ -52,7 +52,7 @@ plt.show()
 
 plt.figure(figsize=(12, 6))
 porazdelitev_industrij = porazdelitev_industrij[:15]
-porazdelitev_industrij.plot(kind='bar', color=["blue", "orange", "green", "red", "purple", "brown", "pink", "grey", "olive", "cyan", "black", "gold", "hotpink", "darkviolet", "mediumblue"])
+porazdelitev_industrij.plot(kind='bar', color=["pink", "blue", "pink", "blue", "purple", "grey", "red", "green", "olive", "orange", "purple", "red", "cyan", "pink", "purple"])
 plt.title("15 največjih industrij")
 plt.xlabel("Industrija")
 plt.ylabel("Število podjetij")
