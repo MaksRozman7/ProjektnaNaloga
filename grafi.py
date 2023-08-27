@@ -42,7 +42,7 @@ plt.show()
 
 plt.figure(figsize=(12, 6))
 povprečna_vrednost_sektorja.plot(kind='bar', color=["blue", "orange", "green", "red", "purple", "brown", "pink", "grey", "olive", "cyan", "black"])
-plt.title("Povprečna vrednost sektorja")
+plt.title("Povprečna vrednost podjetja iz sektorja")
 plt.xlabel("Sektor")
 plt.ylabel("Vrednost (mrd.)")
 plt.xticks(rotation=45)
